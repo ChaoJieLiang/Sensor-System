@@ -1,0 +1,11 @@
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\bin\Debug\Sensor System.exe.config
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\bin\Debug\Sensor System.exe
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\bin\Debug\Sensor System.pdb
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor System.csprojResolveAssemblyReference.cache
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor_System.ctl_fm_PN_List.resources
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor_System.Properties.Resources.resources
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor System.csproj.GenerateResource.Cache
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor System.csproj.CoreCompileInputs.cache
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor System.exe
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor System.pdb
+C:\Work\Amphenol\DustSensor\Source Code\Sensor System\Sensor System\Sensor System\obj\Debug\Sensor_System.ctl_fm_Main.resources
